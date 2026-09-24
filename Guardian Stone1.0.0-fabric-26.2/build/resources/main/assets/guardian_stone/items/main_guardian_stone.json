@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "guardian_stone:item/main_guardian_stone"
+  }
+}

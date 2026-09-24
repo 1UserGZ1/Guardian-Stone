@@ -1,0 +1,15 @@
+{
+  "item.guardian_stone.main_guardian_stone": "主护道石",
+  "item.guardian_stone.child_guardian_stone": "子护道石",
+  "item.guardian_stone.main_guardian_stone.owner": "归属：%s",
+  "item.guardian_stone.child_guardian_stone.owner": "归属：%s",
+  "itemGroup.guardian_stone": "护道石",
+  "gui.guardian_stone.select_player": "选择传送目标",
+  "gui.guardian_stone.cancel": "取消",
+  "message.guardian_stone.not_your_stone": "这不是你的主护道石",
+  "message.guardian_stone.cooling_down": "主护道石冷却中，剩余 %s 秒",
+  "message.guardian_stone.no_target": "没有可传送的目标",
+  "message.guardian_stone.broken": "主护道石已耗尽耐久",
+  "message.guardian_stone.teleported": "已传送至 %s 身边",
+  "message.guardian_stone.bound": "已绑定归属：%s"
+}

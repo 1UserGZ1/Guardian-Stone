@@ -1,0 +1,34 @@
+{
+	"schemaVersion": 1,
+	"id": "guardian_stone",
+	"version": "${version}",
+	"name": "Guardian Stone",
+	"description": "护道石模组，实现子母石传送功能。",
+	"authors": [
+		"DY_XiaoJiaZi"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/guardian_stone/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.dyxiaojiazi.guardian_stone.GuardianStoneMod"
+		],
+		"client": [
+			"com.dyxiaojiazi.guardian_stone.client.GuardianStoneClient"
+		]
+	},
+	"mixins": [
+		"guardian_stone.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

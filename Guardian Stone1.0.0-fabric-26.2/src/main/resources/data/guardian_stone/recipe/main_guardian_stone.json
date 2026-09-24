@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["CEC", "EYE", "CEC"],
+  "key": {
+    "C": "minecraft:crying_obsidian",
+    "E": "minecraft:ender_pearl",
+    "Y": "minecraft:ender_eye"
+  },
+  "result": {
+    "id": "guardian_stone:main_guardian_stone",
+    "count": 1
+  }
+}

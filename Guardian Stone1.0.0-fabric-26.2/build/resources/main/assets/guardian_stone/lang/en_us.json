@@ -1,0 +1,15 @@
+{
+  "item.guardian_stone.main_guardian_stone": "Main Guardian Stone",
+  "item.guardian_stone.child_guardian_stone": "Child Guardian Stone",
+  "item.guardian_stone.main_guardian_stone.owner": "Owner: %s",
+  "item.guardian_stone.child_guardian_stone.owner": "Owner: %s",
+  "itemGroup.guardian_stone": "Guardian Stone",
+  "gui.guardian_stone.select_player": "Select Teleport Target",
+  "gui.guardian_stone.cancel": "Cancel",
+  "message.guardian_stone.not_your_stone": "This is not your Main Guardian Stone",
+  "message.guardian_stone.cooling_down": "Cooling down: %s seconds left",
+  "message.guardian_stone.no_target": "No available teleport target",
+  "message.guardian_stone.broken": "Main Guardian Stone is broken",
+  "message.guardian_stone.teleported": "Teleported to %s",
+  "message.guardian_stone.bound": "Bound to: %s"
+}

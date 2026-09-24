@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["OAO", "AYA", "OAO"],
+  "key": {
+    "O": "minecraft:obsidian",
+    "A": "minecraft:amethyst_shard",
+    "Y": "minecraft:ender_eye"
+  },
+  "result": {
+    "id": "guardian_stone:child_guardian_stone",
+    "count": 1
+  }
+}
